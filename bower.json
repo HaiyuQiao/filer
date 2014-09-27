@@ -1,11 +1,7 @@
 {
   "name": "filer",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "main": "dist/filer.js",
-  "devDependencies": {
-    "mocha": "1.17.1",
-    "chai": "1.9.0"
-  },
   "ignore": [
     "build",
     "examples",
